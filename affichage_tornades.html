@@ -32,11 +32,25 @@
 
     async function loadVortexData() {
         try {
-            const response = await fetch('/web/content/1684');
+            // URL brute de votre fichier JSON sur GitHub (dépôt privé nécessitant un token)
+            const githubUrl = 'https://raw.githubusercontent.com/communaute-jorvikoise/SSO_Halloween_tornades/main/tornades_horaire.json';
+            const githubToken = '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';
+
+            const response = await fetch(githubUrl, {
+                headers: {
+                    'Authorization': `token ${githubToken}`,
+                    'Accept': 'application/vnd.github.v3.raw'
+                }
+            });
+
+            if (!response.ok) {
+                throw new Error(`Erreur HTTP: ${response.status}`);
+            }
+
             globalVortexData = await response.json();
             updateVortexDisplay();
         } catch (error) {
-            console.error("Erreur de chargement JSON :", error);
+            console.error("Erreur de chargement JSON depuis GitHub :", error);
             const container = document.getElementById('vortex-container');
             if (container) {
                 container.innerHTML = "<p style='color: #ff6b6b;'>Impossible de charger l'horaire des tornades.</p>";
