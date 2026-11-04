@@ -1,0 +1,1024 @@
+{
+    "Lundi": [
+        {
+            "hour": "0:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "1:00",
+            "location": "Firgrove (entre la route vers Firgrove et la mine de Silverglade)",
+            "x": 286,
+            "y": 192
+        },
+        {
+            "hour": "2:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "3:00",
+            "location": "Sudhoven",
+            "x": 235,
+            "y": 365
+        },
+        {
+            "hour": "4:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "5:00",
+            "location": "Forêt Goldenleaf (partie ouest de la forêt)",
+            "x": 80,
+            "y": 128
+        },
+        {
+            "hour": "6:00",
+            "location": "Les Terres oubliées (vers de la Halle équeste)",
+            "x": 97,
+            "y": 172
+        },
+        {
+            "hour": "7:00",
+            "location": "Sudhoven (vers la cabane de l'ermite)",
+            "x": 216,
+            "y": 376
+        },
+        {
+            "hour": "8:00",
+            "location": "Les près Silvergalde (à côté du Village Siverglade)",
+            "x": 195,
+            "y": 180
+        },
+        {
+            "hour": "9:00",
+            "location": "Les versants de l'Est (au sud-est de la ferme des Dews)",
+            "x": 151,
+            "y": 287
+        },
+        {
+            "hour": "10:00",
+            "location": "Îles du Soleil (l’île la plus à l’ouest)",
+            "x": 109,
+            "y": 390
+        },
+        {
+            "hour": "11:00",
+            "location": "Les prés Silverglade (le champ entre le Château Silverglade et le cirque d'Ydris)",
+            "x": 166,
+            "y": 214
+        },
+        {
+            "hour": "12:00",
+            "location": "Eastglade (entre la ferme de citrouilles de Jasper et le championnat de la vallée Goldenhills)",
+            "x": 106,
+            "y": 149
+        },
+        {
+            "hour": "13:00",
+            "location": "Les champs Dorés",
+            "x": 217,
+            "y": 185
+        },
+        {
+            "hour": "14:00",
+            "location": "Les champs Everwind (la zone au-dessous de l’observatoire)",
+            "x": 202,
+            "y": 128
+        },
+        {
+            "hour": "15:00",
+            "location": "Le ranch Starshine",
+            "x": 286,
+            "y": 221
+        },
+        {
+            "hour": "16:00",
+            "location": "Les Terres oubliées (vers de la Halle équeste)",
+            "x": 97,
+            "y": 172
+        },
+        {
+            "hour": "17:00",
+            "location": "Moorland (au portail vers le Donjon du Galopeur)",
+            "x": 208,
+            "y": 233
+        },
+        {
+            "hour": "18:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "19:00",
+            "location": "Les Monts brumeux",
+            "x": 108,
+            "y": 126
+        },
+        {
+            "hour": "20:00",
+            "location": "Le champ à côté du silo de Barney",
+            "x": 211,
+            "y": 200
+        },
+        {
+            "hour": "21:00",
+            "location": "Sudhoven (juste au-dessus de la cabane de l'ermite)",
+            "x": 206,
+            "y": 388
+        },
+        {
+            "hour": "22:00",
+            "location": "Moorland (au portail vers le Donjon du Galopeur)",
+            "x": 208,
+            "y": 233
+        },
+        {
+            "hour": "23:00",
+            "location": "Les champs Everwind",
+            "x": 198,
+            "y": 142
+        }
+    ],
+    "Mardi": [
+        {
+            "hour": "0:00",
+            "location": "Îles du Soleil (l’île la plus à l’ouest)",
+            "x": 109,
+            "y": 390
+        },
+        {
+            "hour": "1:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "2:00",
+            "location": "Eastglade (entre la ferme de citrouilles de Jasper et le championnat de la vallée Goldenhills)",
+            "x": 106,
+            "y": 149
+        },
+        {
+            "hour": "3:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        },
+        {
+            "hour": "4:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "5:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "6:00",
+            "location": "Les champs Everwind (au sud de la piste de la baronne)",
+            "x": 171,
+            "y": 148
+        },
+        {
+            "hour": "7:00",
+            "location": "Station des Rangers Mistfall Sud",
+            "x": 394,
+            "y": 303
+        },
+        {
+            "hour": "8:00",
+            "location": "Îles du Soleil (l'île la plus à l'est)",
+            "x": 142,
+            "y": 377
+        },
+        {
+            "hour": "9:00",
+            "location": "Boisé Creux (les chutes Lumineuses)",
+            "x": 250,
+            "y": 145
+        },
+        {
+            "hour": "10:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "11:00",
+            "location": "Les Hautes terres de Nilmer",
+            "x": 170,
+            "y": 227
+        },
+        {
+            "hour": "12:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "13:00",
+            "location": "Les Hautes terres de Nilmer (à côté de la tente du cirque d'Ydris)",
+            "x": 154,
+            "y": 225
+        },
+        {
+            "hour": "14:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        },
+        {
+            "hour": "15:00",
+            "location": "Sudhoven",
+            "x": 235,
+            "y": 365
+        },
+        {
+            "hour": "16:00",
+            "location": "Les prés Silverglade (le champ à côté du championnat de Silverglade)",
+            "x": 172,
+            "y": 188
+        },
+        {
+            "hour": "17:00",
+            "location": "Firgrove (le coin entre la route vers Firgrove et la randonnée du fil rouge)",
+            "x": 271,
+            "y": 203
+        },
+        {
+            "hour": "18:00",
+            "location": "Les champs Everwind (près du Maillon du Nord)",
+            "x": 181,
+            "y": 135
+        },
+        {
+            "hour": "19:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "20:00",
+            "location": "Eastglade (entre la ferme de citrouilles de Jasper et le championnat de la vallée Goldenhills)",
+            "x": 106,
+            "y": 149
+        },
+        {
+            "hour": "21:00",
+            "location": "Les versants de l'Est (au sud-est de la ferme des Dews)",
+            "x": 151,
+            "y": 287
+        },
+        {
+            "hour": "22:00",
+            "location": "Les près Silvergalde (à côté du Village Siverglade)",
+            "x": 195,
+            "y": 180
+        },
+        {
+            "hour": "23:00",
+            "location": "Îles du Soleil (l'île la plus à l'est)",
+            "x": 142,
+            "y": 377
+        }
+    ],
+    "Mercredi": [
+        {
+            "hour": "0:00",
+            "location": "Sudhoven (à côté du pont vers Epona)",
+            "x": 170,
+            "y": 366
+        },
+        {
+            "hour": "1:00",
+            "location": "Le ranch Starshine",
+            "x": 286,
+            "y": 221
+        },
+        {
+            "hour": "2:00",
+            "location": "Eastglade (entre la ferme de citrouilles de Jasper et le championnat de la vallée Goldenhills)",
+            "x": 106,
+            "y": 149
+        },
+        {
+            "hour": "3:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        },
+        {
+            "hour": "4:00",
+            "location": "La pommeraie",
+            "x": 276,
+            "y": 234
+        },
+        {
+            "hour": "5:00",
+            "location": "Sudhoven (juste au-dessus de la cabane de l'ermite)",
+            "x": 206,
+            "y": 388
+        },
+        {
+            "hour": "6:00",
+            "location": "Les champs Everwind (au sud de la piste de la baronne)",
+            "x": 171,
+            "y": 148
+        },
+        {
+            "hour": "7:00",
+            "location": "Les prés Silverglade (entre le Centre équestre Silverglade et la pente aux Bouleaux)",
+            "x": 153,
+            "y": 198
+        },
+        {
+            "hour": "8:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "9:00",
+            "location": "Les Monts brumeux",
+            "x": 108,
+            "y": 126
+        },
+        {
+            "hour": "10:00",
+            "location": "Sudhoven (vers la cabane de l'ermite)",
+            "x": 216,
+            "y": 376
+        },
+        {
+            "hour": "11:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "12:00",
+            "location": "Les prés Silverglade (entre le Centre équestre Silverglade et la pente aux Bouleaux)",
+            "x": 153,
+            "y": 198
+        },
+        {
+            "hour": "13:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "14:00",
+            "location": "Moorland",
+            "x": 174,
+            "y": 245
+        },
+        {
+            "hour": "15:00",
+            "location": "Les Monts brumeux",
+            "x": 108,
+            "y": 126
+        },
+        {
+            "hour": "16:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "17:00",
+            "location": "Moorland, Chantier de construction de la G.E.D.",
+            "x": 199,
+            "y": 224
+        },
+        {
+            "hour": "18:00",
+            "location": "Le champ à côté du silo de Barney",
+            "x": 211,
+            "y": 200
+        },
+        {
+            "hour": "19:00",
+            "location": "La pommeraie",
+            "x": 276,
+            "y": 234
+        },
+        {
+            "hour": "20:00",
+            "location": "Les Hautes terres de Nilmer (à côté de la tente du cirque d'Ydris)",
+            "x": 154,
+            "y": 225
+        },
+        {
+            "hour": "21:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "22:00",
+            "location": "Sudhoven (à côté du pont vers Epona)",
+            "x": 170,
+            "y": 366
+        },
+        {
+            "hour": "23:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        }
+    ],
+    "Jeudi": [
+        {
+            "hour": "0:00",
+            "location": "Les prés Southsea (le champ en face du mont Épouvantail)",
+            "x": 72,
+            "y": 145
+        },
+        {
+            "hour": "1:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "2:00",
+            "location": "Station des Rangers Mistfall Sud",
+            "x": 394,
+            "y": 303
+        },
+        {
+            "hour": "3:00",
+            "location": "Forêt Goldenleaf (partie ouest de la forêt)",
+            "x": 80,
+            "y": 128
+        },
+        {
+            "hour": "4:00",
+            "location": "Les versants de l'Est (près du phare de la ferme des Dews)",
+            "x": 157,
+            "y": 293
+        },
+        {
+            "hour": "5:00",
+            "location": "Firgrove (le coin entre la route vers Firgrove et la randonnée du fil rouge)",
+            "x": 271,
+            "y": 203
+        },
+        {
+            "hour": "6:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        },
+        {
+            "hour": "7:00",
+            "location": "Les versants de l'Est (près du phare de la ferme des Dews)",
+            "x": 157,
+            "y": 293
+        },
+        {
+            "hour": "8:00",
+            "location": "Les prés Silverglade (le champ entre le Château Silverglade et le cirque d'Ydris)",
+            "x": 166,
+            "y": 214
+        },
+        {
+            "hour": "9:00",
+            "location": "Les prés Silverglade (le champ à côté du championnat de Silverglade)",
+            "x": 172,
+            "y": 188
+        },
+        {
+            "hour": "10:00",
+            "location": "Îles du Soleil (île du milieu)",
+            "x": 124,
+            "y": 389
+        },
+        {
+            "hour": "11:00",
+            "location": "Firgrove (entre la route vers Firgrove et la mine de Silverglade)",
+            "x": 286,
+            "y": 192
+        },
+        {
+            "hour": "12:00",
+            "location": "Moorland, Chantier de construction de la G.E.D.",
+            "x": 199,
+            "y": 224
+        },
+        {
+            "hour": "13:00",
+            "location": "Les champs Everwind (au sud de la piste de la baronne)",
+            "x": 171,
+            "y": 148
+        },
+        {
+            "hour": "14:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "15:00",
+            "location": "Forêt Goldenleaf (partie ouest de la forêt)",
+            "x": 80,
+            "y": 128
+        },
+        {
+            "hour": "16:00",
+            "location": "Les Hautes terres de Nilmer",
+            "x": 170,
+            "y": 227
+        },
+        {
+            "hour": "17:00",
+            "location": "Îles du Soleil (l’île la plus à l’ouest)",
+            "x": 109,
+            "y": 390
+        },
+        {
+            "hour": "18:00",
+            "location": "Les champs Dorés",
+            "x": 217,
+            "y": 185
+        },
+        {
+            "hour": "19:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "20:00",
+            "location": "La chapelle de Doyle",
+            "x": 242,
+            "y": 233
+        },
+        {
+            "hour": "21:00",
+            "location": "Boisé Creux (les chutes Lumineuses)",
+            "x": 250,
+            "y": 145
+        },
+        {
+            "hour": "22:00",
+            "location": "Firgrove (entre le ranch Starshine et la passe de Birk)",
+            "x": 317,
+            "y": 237
+        },
+        {
+            "hour": "23:00",
+            "location": "Moorland",
+            "x": 174,
+            "y": 245
+        }
+    ],
+    "Vendredi": [
+        {
+            "hour": "0:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "1:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "2:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "3:00",
+            "location": "Le ranch Starshine",
+            "x": 286,
+            "y": 221
+        },
+        {
+            "hour": "4:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "5:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "6:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "7:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "8:00",
+            "location": "Sudhoven (à côté du pont vers Epona)",
+            "x": 170,
+            "y": 366
+        },
+        {
+            "hour": "9:00",
+            "location": "Moorland, Chantier de construction de la G.E.D.",
+            "x": 199,
+            "y": 224
+        },
+        {
+            "hour": "10:00",
+            "location": "Les prés Southsea (le champ en face du mont Épouvantail)",
+            "x": 72,
+            "y": 145
+        },
+        {
+            "hour": "11:00",
+            "location": "Les près Silvergalde (à côté du Village Siverglade)",
+            "x": 195,
+            "y": 180
+        },
+        {
+            "hour": "12:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "13:00",
+            "location": "Firgrove (entre la route vers Firgrove et la mine de Silverglade)",
+            "x": 286,
+            "y": 192
+        },
+        {
+            "hour": "14:00",
+            "location": "Les Hautes terres de Nilmer",
+            "x": 170,
+            "y": 227
+        },
+        {
+            "hour": "15:00",
+            "location": "Îles du Soleil (l'île la plus à l'est)",
+            "x": 141,
+            "y": 384
+        },
+        {
+            "hour": "16:00",
+            "location": "Les champs Everwind (la zone au-dessous de l’observatoire)",
+            "x": 202,
+            "y": 128
+        },
+        {
+            "hour": "17:00",
+            "location": "Les champs Dorés",
+            "x": 217,
+            "y": 185
+        },
+        {
+            "hour": "18:00",
+            "location": "Moorland",
+            "x": 174,
+            "y": 245
+        },
+        {
+            "hour": "19:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "20:00",
+            "location": "Les versants de l'Est (près du phare de la ferme des Dews)",
+            "x": 157,
+            "y": 293
+        },
+        {
+            "hour": "21:00",
+            "location": "Station des Rangers Mistfall Sud",
+            "x": 394,
+            "y": 303
+        },
+        {
+            "hour": "22:00",
+            "location": "Forêt Goldenleaf (partie ouest de la forêt)",
+            "x": 80,
+            "y": 128
+        },
+        {
+            "hour": "23:00",
+            "location": "Les Terres oubliées (vers de la Halle équeste)",
+            "x": 97,
+            "y": 172
+        }
+    ],
+    "Samedi": [
+        {
+            "hour": "0:00",
+            "location": "Les versants de l'Est (au sud-ouest de la ferme des Dews)",
+            "x": 151,
+            "y": 287
+        },
+        {
+            "hour": "1:00",
+            "location": "Les Hautes terres de Nilmer",
+            "x": 170,
+            "y": 227
+        },
+        {
+            "hour": "2:00",
+            "location": "Boisé Creux (en contrebas du bosquet des Mousses)",
+            "x": 236,
+            "y": 125
+        },
+        {
+            "hour": "3:00",
+            "location": "Eastglade (entre la ferme de citrouilles de Jasper et le championnat de la vallée Goldenhills)",
+            "x": 106,
+            "y": 149
+        },
+        {
+            "hour": "4:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "5:00",
+            "location": "La pommeraie",
+            "x": 276,
+            "y": 234
+        },
+        {
+            "hour": "6:00",
+            "location": "Les Hautes terres de Nilmer (à côté de la tente du cirque d'Ydris)",
+            "x": 154,
+            "y": 225
+        },
+        {
+            "hour": "7:00",
+            "location": "Îles du Soleil (l'île la plus à l'est)",
+            "x": 141,
+            "y": 384
+        },
+        {
+            "hour": "8:00",
+            "location": "Sudhoven (la partie centrale inférieure de la péninsule)",
+            "x": 233,
+            "y": 388
+        },
+        {
+            "hour": "9:00",
+            "location": "La chapelle de Doyle",
+            "x": 242,
+            "y": 233
+        },
+        {
+            "hour": "10:00",
+            "location": "Forêt Goldenleaf (partie est de la forêt)",
+            "x": 88,
+            "y": 131
+        },
+        {
+            "hour": "11:00",
+            "location": "La grange de Birk",
+            "x": 311,
+            "y": 275
+        },
+        {
+            "hour": "12:00",
+            "location": "Les champs Everwind (près du Maillon du Nord)",
+            "x": 181,
+            "y": 135
+        },
+        {
+            "hour": "13:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "14:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "15:00",
+            "location": "Les Terres oubliées (vers de la Halle équeste)",
+            "x": 97,
+            "y": 172
+        },
+        {
+            "hour": "16:00",
+            "location": "Les prés Silverglade (le champ à côté du championnat de Silverglade)",
+            "x": 172,
+            "y": 188
+        },
+        {
+            "hour": "17:00",
+            "location": "Îles du Soleil (l'île la plus à l'est)",
+            "x": 142,
+            "y": 377
+        },
+        {
+            "hour": "18:00",
+            "location": "Moorland (au portail vers le Donjon du Galopeur)",
+            "x": 208,
+            "y": 233
+        },
+        {
+            "hour": "19:00",
+            "location": "Sudhoven (vers la cabane de l'ermite)",
+            "x": 216,
+            "y": 376
+        },
+        {
+            "hour": "20:00",
+            "location": "Les Hautes terres de Nilmer (à côté de la tente du cirque d'Ydris)",
+            "x": 154,
+            "y": 225
+        },
+        {
+            "hour": "21:00",
+            "location": "Forêt Goldenleaf (partie est de la forêt)",
+            "x": 88,
+            "y": 131
+        },
+        {
+            "hour": "22:00",
+            "location": "Sudhoven (la partie centrale inférieure de la péninsule)",
+            "x": 233,
+            "y": 388
+        },
+        {
+            "hour": "23:00",
+            "location": "La chapelle de Doyle",
+            "x": 242,
+            "y": 233
+        }
+    ],
+    "Dimanche": [
+        {
+            "hour": "0:00",
+            "location": "Les champs Everwind",
+            "x": 198,
+            "y": 142
+        },
+        {
+            "hour": "1:00",
+            "location": "Firgrove (entre la route vers Firgrove et la mine de Silverglade)",
+            "x": 286,
+            "y": 192
+        },
+        {
+            "hour": "2:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "3:00",
+            "location": "Les prés Southsea (le champ en face du mont Épouvantail)",
+            "x": 72,
+            "y": 145
+        },
+        {
+            "hour": "4:00",
+            "location": "Les prés Silverglade (le champ à côté du championnat de Silverglade)",
+            "x": 172,
+            "y": 188
+        },
+        {
+            "hour": "5:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "6:00",
+            "location": "Firgrove (entre le ranch Starshine et la passe de Birk)",
+            "x": 317,
+            "y": 237
+        },
+        {
+            "hour": "7:00",
+            "location": "Les versants de l'Est (près du phare de la ferme des Dews)",
+            "x": 157,
+            "y": 293
+        },
+        {
+            "hour": "8:00",
+            "location": "Sudhoven (la partie centrale inférieure de la péninsule)",
+            "x": 233,
+            "y": 388
+        },
+        {
+            "hour": "9:00",
+            "location": "Les champs Everwind (entre les champs de pétrole Everwind et la ferme de Marley)",
+            "x": 163,
+            "y": 162
+        },
+        {
+            "hour": "10:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "11:00",
+            "location": "Les Terres oubliées (près de la vieille souche d'arbre)",
+            "x": 61,
+            "y": 185
+        },
+        {
+            "hour": "12:00",
+            "location": "Station des Rangers Mistfall Sud",
+            "x": 394,
+            "y": 303
+        },
+        {
+            "hour": "13:00",
+            "location": "Les versants de l'Est (au sud-est de la ferme des Dews)",
+            "x": 151,
+            "y": 287
+        },
+        {
+            "hour": "14:00",
+            "location": "Les prés Silverglade (entre le Centre équestre Silverglade et la pente aux Bouleaux)",
+            "x": 153,
+            "y": 198
+        },
+        {
+            "hour": "15:00",
+            "location": "Firgrove (le coin entre la route vers Firgrove et la randonnée du fil rouge)",
+            "x": 271,
+            "y": 203
+        },
+        {
+            "hour": "16:00",
+            "location": "Les prés Silverglade (le champ entre le Château Silverglade et le cirque d'Ydris)",
+            "x": 166,
+            "y": 214
+        },
+        {
+            "hour": "17:00",
+            "location": "Firgrove (le coin entre la route vers Firgrove et la randonnée du fil rouge)",
+            "x": 271,
+            "y": 203
+        },
+        {
+            "hour": "18:00",
+            "location": "Sudhoven (vers la cabane de l'ermite)",
+            "x": 216,
+            "y": 376
+        },
+        {
+            "hour": "19:00",
+            "location": "Les prés Southsea (le champ en face du mont Épouvantail)",
+            "x": 72,
+            "y": 145
+        },
+        {
+            "hour": "20:00",
+            "location": "Boisé Creux (les chutes Lumineuses)",
+            "x": 250,
+            "y": 145
+        },
+        {
+            "hour": "21:00",
+            "location": "Zone du championnat des Poneys de la rivière Silversong",
+            "x": 228,
+            "y": 235
+        },
+        {
+            "hour": "22:00",
+            "location": "Les versants de l'Est (entre l'hôtel Wolf Hall et la ferme des Dews)",
+            "x": 165,
+            "y": 265
+        },
+        {
+            "hour": "23:00",
+            "location": "Le champ à côté du silo de Barney",
+            "x": 211,
+            "y": 200
+        }
+    ]
+}
